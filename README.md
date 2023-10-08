@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Framework, courses, etc**
 
-- 👨‍💻 Portfolio that is already running at Dian Nusantara University [https://digilib.undira.ac.id/)
+- 👨‍💻 Portfolio that is already running at Dian Nusantara University [https://digilib.undira.ac.id/](https://digilib.undira.ac.id/)
 
 - 💬 Ask me about **Laravel, Flutter, and Dart**
 
