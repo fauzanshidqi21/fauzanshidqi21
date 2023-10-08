@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Framework, courses, etc**
 
-- 👨‍💻 All of my projects are available at [https://github.com/fauzanshidqi21?tab=repositories](https://github.com/fauzanshidqi21?tab=repositories)
+- 👨‍💻 Portfolio that is already running at Dian Nusantara University [https://digilib.undira.ac.id/)
 
 - 💬 Ask me about **Laravel, Flutter, and Dart**
 
